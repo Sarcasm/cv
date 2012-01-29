@@ -8,5 +8,5 @@ cv_en: GuillaumePapin_en.pdf
 clean:
 	rm -f *.aux *.log *.out
 
-cleanall: clear
+cleanall: clean
 	rm -f *.pdf
